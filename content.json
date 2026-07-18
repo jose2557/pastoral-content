@@ -1,5 +1,6 @@
 {
-  "version": 4,
+  "version": 5,
+  "nota": "Se corrigió la agrupación de temas en Lucas y se mejoró el modo audible.",
   "semanas": [
     {
       "numero": 1,
