@@ -1,6 +1,9 @@
 {
   "version": 5,
-  "nota": "Se corrigió la agrupación de temas en Lucas y se mejoró el modo audible.",
+  "nota": "Corrección de temas de Lucas.",
+  "appVersion": 1,
+  "appNota": "Audio nativo, tutorial y auto-actualización.",
+  "apkUrl": "https://github.com/jose2557/pastoral-content/releases/download/app-latest/app-debug.apk",
   "semanas": [
     {
       "numero": 1,
