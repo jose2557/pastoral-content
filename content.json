@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "semanas": [
     {
       "numero": 1,
@@ -860,7 +860,13 @@
                 {
                   "titulo": "La importancia de la fe",
                   "ref": "9:37-45"
-                },
+                }
+              ]
+            },
+            {
+              "id": "T7",
+              "titulo": "Su Doctrina",
+              "sujetos": [
                 {
                   "titulo": "El costo de seguir a Jesús",
                   "ref": "9:46-62"
@@ -876,13 +882,7 @@
                 {
                   "titulo": "La oración",
                   "ref": "11:1-13"
-                }
-              ]
-            },
-            {
-              "id": "T7",
-              "titulo": "Su Doctrina",
-              "sujetos": [
+                },
                 {
                   "titulo": "La separación de bien y mal",
                   "ref": "11:14-36"
@@ -946,10 +946,6 @@
                 {
                   "titulo": "La autoridad de Jesús",
                   "ref": "20:1-47"
-                },
-                {
-                  "titulo": "La tribulación",
-                  "ref": "21:1-24"
                 }
               ]
             },
@@ -957,6 +953,10 @@
               "id": "T8",
               "titulo": "Su Profecía",
               "sujetos": [
+                {
+                  "titulo": "La tribulación",
+                  "ref": "21:1-24"
+                },
                 {
                   "titulo": "La segunda venida",
                   "ref": "21:25-38"
@@ -981,10 +981,6 @@
                 {
                   "titulo": "El arresto en Getsemaní",
                   "ref": "22:39-53"
-                },
-                {
-                  "titulo": "El juicio del concilio",
-                  "ref": "22:54-71"
                 }
               ]
             },
@@ -992,6 +988,10 @@
               "id": "T10",
               "titulo": "Su Condenación",
               "sujetos": [
+                {
+                  "titulo": "El juicio del concilio",
+                  "ref": "22:54-71"
+                },
                 {
                   "titulo": "El juicio de Pilato",
                   "ref": "23:1-5"
@@ -1003,14 +1003,6 @@
                 {
                   "titulo": "El juicio del pueblo",
                   "ref": "23:13-25"
-                },
-                {
-                  "titulo": "La crucifixión de Jesús",
-                  "ref": "23:26-49"
-                },
-                {
-                  "titulo": "La sepultura de Jesús",
-                  "ref": "23:50-56"
                 }
               ]
             },
@@ -1018,6 +1010,14 @@
               "id": "T11",
               "titulo": "Su Sacrificio",
               "sujetos": [
+                {
+                  "titulo": "La crucifixión de Jesús",
+                  "ref": "23:26-49"
+                },
+                {
+                  "titulo": "La sepultura de Jesús",
+                  "ref": "23:50-56"
+                },
                 {
                   "titulo": "La resurrección de Jesús",
                   "ref": "24:1-12"
