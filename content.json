@@ -1,8 +1,8 @@
 {
   "version": 5,
   "nota": "Corrección de temas de Lucas.",
-  "appVersion": 3,
-  "appNota": "La descarga de nuevas versiones ahora abre el navegador para instalar sin trabas.",
+  "appVersion": 4,
+  "appNota": "Cuadro rediseñado en tarjetas, cómodo para el celular.",
   "apkUrl": "https://github.com/jose2557/pastoral-content/releases/download/app-latest/app-debug.apk",
   "semanas": [
     {
