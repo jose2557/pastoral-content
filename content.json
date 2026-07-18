@@ -1,8 +1,8 @@
 {
   "version": 5,
   "nota": "Corrección de temas de Lucas.",
-  "appVersion": 2,
-  "appNota": "Modo audible: voz en español seleccionable y opción de escuchar todo el día.",
+  "appVersion": 3,
+  "appNota": "La descarga de nuevas versiones ahora abre el navegador para instalar sin trabas.",
   "apkUrl": "https://github.com/jose2557/pastoral-content/releases/download/app-latest/app-debug.apk",
   "semanas": [
     {
