@@ -1,8 +1,8 @@
 {
   "version": 5,
   "nota": "Corrección de temas de Lucas.",
-  "appVersion": 5,
-  "appNota": "Arreglos: firma estable (instala encima) y descarga que abre Chrome directo.",
+  "appVersion": 6,
+  "appNota": "Se corrigieron los avisos de actualización que se repetían.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
