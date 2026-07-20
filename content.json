@@ -1,8 +1,8 @@
 {
   "version": 5,
   "nota": "Corrección de temas de Lucas.",
-  "appVersion": 6,
-  "appNota": "Se corrigieron los avisos de actualización que se repetían.",
+  "appVersion": 7,
+  "appNota": "Nueva organización: todos los libros completos desde la barra lateral; los 7 días quedan como guía opcional.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
