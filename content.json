@@ -1,8 +1,8 @@
 {
   "version": 5,
   "nota": "Corrección de temas de Lucas.",
-  "appVersion": 7,
-  "appNota": "Nueva organización: todos los libros completos desde la barra lateral; los 7 días quedan como guía opcional.",
+  "appVersion": 8,
+  "appNota": "El audible ya no se detiene al salir de la app ni al bloquear el celular.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
