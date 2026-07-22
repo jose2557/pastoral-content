@@ -1,8 +1,8 @@
 {
   "version": 5,
   "nota": "Corrección de temas de Lucas.",
-  "appVersion": 8,
-  "appNota": "El audible ya no se detiene al salir de la app ni al bloquear el celular.",
+  "appVersion": 9,
+  "appNota": "El audible ya no se corta al bloquear (servicio en primer plano) y se agregó prueba de notificaciones.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
