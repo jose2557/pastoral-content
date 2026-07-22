@@ -1,8 +1,8 @@
 {
   "version": 5,
   "nota": "Corrección de temas de Lucas.",
-  "appVersion": 9,
-  "appNota": "El audible ya no se corta al bloquear (servicio en primer plano) y se agregó prueba de notificaciones.",
+  "appVersion": 10,
+  "appNota": "Arreglo urgente: el audible volvió a funcionar (se quitó el componente que cerraba la app).",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
