@@ -1,8 +1,8 @@
 {
-  "version": 5,
-  "nota": "Corrección de temas de Lucas.",
-  "appVersion": 11,
-  "appNota": "La versión ya se muestra bien (no más 1.0). La app también busca actualizaciones al volver a abrirla, no solo al forzar el cierre. Y en ajustes hay un interruptor opcional de audio en segundo plano (experimental) para que el audible siga sonando con la pantalla bloqueada.",
+  "version": 6,
+  "nota": "Corrección: 'El rico y el mendigo' ahora es Lucas 16:19-31.",
+  "appVersion": 12,
+  "appNota": "Tus recordatorios ahora se conservan y se reactivan solos al abrir la app tras cada actualización (antes se borraban).",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
@@ -921,7 +921,7 @@
                 },
                 {
                   "titulo": "El rico y el mendigo",
-                  "ref": "16:18-31"
+                  "ref": "16:19-31"
                 },
                 {
                   "titulo": "Crecer en la fe",
