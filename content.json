@@ -1,8 +1,8 @@
 {
   "version": 6,
   "nota": "Corrección: 'El rico y el mendigo' ahora es Lucas 16:19-31.",
-  "appVersion": 12,
-  "appNota": "Tus recordatorios ahora se conservan y se reactivan solos al abrir la app tras cada actualización (antes se borraban).",
+  "appVersion": 13,
+  "appNota": "Nuevo panel de diagnóstico del audible en ⚙️ para ayudar a resolver por qué el audio se detiene al bloquear la pantalla. Reproduce, bloquea unos minutos, desbloquea y envíame el registro.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
