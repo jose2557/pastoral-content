@@ -1,8 +1,8 @@
 {
   "version": 6,
   "nota": "Corrección: 'El rico y el mendigo' ahora es Lucas 16:19-31.",
-  "appVersion": 14,
-  "appNota": "¡Nuevo! El audible ahora sigue sonando con la pantalla BLOQUEADA (motor de voz nativo) y muestra controles de pausa, anterior y siguiente en la notificación. Pruébalo y, si algo falla, usa el diagnóstico del audible en ajustes para avisarme.",
+  "appVersion": 15,
+  "appNota": "Mejoras internas y limpieza. El audible en segundo plano (pantalla bloqueada) con controles ya quedó estable.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
