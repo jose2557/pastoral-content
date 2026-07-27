@@ -1,8 +1,8 @@
 {
   "version": 7,
   "nota": "Nuevo libro: Juan — El Hijo de Dios (semana del 26-7-26).",
-  "appVersion": 15,
-  "appNota": "Mejoras internas y limpieza. El audible en segundo plano (pantalla bloqueada) con controles ya quedó estable.",
+  "appVersion": 16,
+  "appNota": "Rediseño: la sección de Libros ahora se abre con un toque en un panel, en vez de deslizarse. Toca 'Libros' para verlos y acceder.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
