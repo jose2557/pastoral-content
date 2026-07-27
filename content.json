@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "nota": "Corrección: 'El rico y el mendigo' ahora es Lucas 16:19-31.",
+  "version": 7,
+  "nota": "Nuevo libro: Juan — El Hijo de Dios (semana del 26-7-26).",
   "appVersion": 15,
   "appNota": "Mejoras internas y limpieza. El audible en segundo plano (pantalla bloqueada) con controles ya quedó estable.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
@@ -1039,6 +1039,277 @@
           ]
         }
       ]
+    },
+    {
+      "numero": 4,
+      "fecha": "26-7-26",
+      "titulo": "Juan: El Hijo de Dios",
+      "chunkSizes": [
+        6,
+        7,
+        5,
+        6,
+        6,
+        7,
+        5
+      ],
+      "dayLabels": [
+        "La Manifestación Del Hijo",
+        "Su Testimonio y Poder",
+        "Su Palabra I",
+        "Su Palabra II",
+        "Su Preparación I",
+        "Su Preparación II y Condenación",
+        "La Muerte Del Hijo"
+      ],
+      "dayRanges": [
+        "Juan 1-2",
+        "Juan 3-6",
+        "Juan 6-9",
+        "Juan 10-12",
+        "Juan 13-15",
+        "Juan 16-19",
+        "Juan 19-21"
+      ],
+      "divisiones": [
+        {
+          "id": "D1",
+          "titulo": "La Manifestación Del Hijo",
+          "rango": "Juan 1",
+          "temas": [
+            {
+              "id": "T1",
+              "titulo": "Su Introducción",
+              "sujetos": [
+                {
+                  "titulo": "La Palabra de Dios",
+                  "ref": "1:1-18"
+                },
+                {
+                  "titulo": "El mensaje de Juan el bautista",
+                  "ref": "1:19-28"
+                },
+                {
+                  "titulo": "El bautismo de Jesús",
+                  "ref": "1:29-34"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "titulo": "El Ministerio Del Hijo",
+          "rango": "Juan 1-12",
+          "temas": [
+            {
+              "id": "T2",
+              "titulo": "Su Comienzo",
+              "sujetos": [
+                {
+                  "titulo": "Jesús llama a sus discípulos",
+                  "ref": "1:35-51"
+                },
+                {
+                  "titulo": "Las bodas de Caná",
+                  "ref": "2:1-12"
+                },
+                {
+                  "titulo": "La purificación del templo",
+                  "ref": "2:13-25"
+                }
+              ]
+            },
+            {
+              "id": "T3",
+              "titulo": "Su Testimonio",
+              "sujetos": [
+                {
+                  "titulo": "La conversación con Nicodemo",
+                  "ref": "3:1-21"
+                },
+                {
+                  "titulo": "El testimonio de Juan el bautista",
+                  "ref": "3:22-36"
+                },
+                {
+                  "titulo": "La conversación con la samaritana",
+                  "ref": "4:1-42"
+                }
+              ]
+            },
+            {
+              "id": "T4",
+              "titulo": "Su Poder",
+              "sujetos": [
+                {
+                  "titulo": "Jesús sana a los enfermos",
+                  "ref": "4:43-5:18"
+                },
+                {
+                  "titulo": "La autoridad del Hijo",
+                  "ref": "5:19-47"
+                },
+                {
+                  "titulo": "Alimentación de los cinco mil",
+                  "ref": "6:1-15"
+                },
+                {
+                  "titulo": "Jesús anda sobre el mar",
+                  "ref": "6:16-24"
+                }
+              ]
+            },
+            {
+              "id": "T5",
+              "titulo": "Su Palabra",
+              "sujetos": [
+                {
+                  "titulo": "El pan de vida",
+                  "ref": "6:25-71"
+                },
+                {
+                  "titulo": "La fiesta de los tabernáculos",
+                  "ref": "7:1-31"
+                },
+                {
+                  "titulo": "Los fariseos y los alguaciles",
+                  "ref": "7:32-53"
+                },
+                {
+                  "titulo": "La confrontación con los fariseos",
+                  "ref": "8:1-59"
+                },
+                {
+                  "titulo": "El hombre ciego de nacimiento",
+                  "ref": "9:1-41"
+                },
+                {
+                  "titulo": "El buen pastor",
+                  "ref": "10:1-21"
+                },
+                {
+                  "titulo": "La confrontación con los judíos",
+                  "ref": "10:22-42"
+                },
+                {
+                  "titulo": "La resurrección de Lázaro",
+                  "ref": "11:1-57"
+                },
+                {
+                  "titulo": "María lava los pies de Jesús",
+                  "ref": "12:1-11"
+                },
+                {
+                  "titulo": "La entrada en Jerusalén",
+                  "ref": "12:12-36"
+                },
+                {
+                  "titulo": "El juicio de sus palabras",
+                  "ref": "12:37-50"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D3",
+          "titulo": "La Muerte Del Hijo",
+          "rango": "Juan 13-21",
+          "temas": [
+            {
+              "id": "T6",
+              "titulo": "Su Preparación",
+              "sujetos": [
+                {
+                  "titulo": "Lavando los pies de los discípulos",
+                  "ref": "13:1-20"
+                },
+                {
+                  "titulo": "Avisando a los discípulos",
+                  "ref": "13:21-38"
+                },
+                {
+                  "titulo": "El camino de Dios",
+                  "ref": "14:1-14"
+                },
+                {
+                  "titulo": "La promesa del Espíritu",
+                  "ref": "14:15-31"
+                },
+                {
+                  "titulo": "La vid y los pámpanos",
+                  "ref": "15:1-17"
+                },
+                {
+                  "titulo": "La tribulación de los discípulos",
+                  "ref": "15:18-27"
+                },
+                {
+                  "titulo": "La obra del Espíritu",
+                  "ref": "16:1-15"
+                },
+                {
+                  "titulo": "La victoria de Jesús",
+                  "ref": "16:16-33"
+                },
+                {
+                  "titulo": "Orando por los discípulos",
+                  "ref": "17:1-26"
+                },
+                {
+                  "titulo": "El arresto en Getsemaní",
+                  "ref": "18:1-11"
+                }
+              ]
+            },
+            {
+              "id": "T7",
+              "titulo": "Su Condenación",
+              "sujetos": [
+                {
+                  "titulo": "El juicio del concilio",
+                  "ref": "18:12-27"
+                },
+                {
+                  "titulo": "El juicio de Pilato",
+                  "ref": "18:28-40"
+                },
+                {
+                  "titulo": "El juicio del pueblo",
+                  "ref": "19:1-16"
+                }
+              ]
+            },
+            {
+              "id": "T8",
+              "titulo": "Su Sacrificio",
+              "sujetos": [
+                {
+                  "titulo": "La crucifixión de Jesús",
+                  "ref": "19:17-30"
+                },
+                {
+                  "titulo": "La sepultura de Jesús",
+                  "ref": "19:31-42"
+                },
+                {
+                  "titulo": "La resurrección de Jesús",
+                  "ref": "20:1-18"
+                },
+                {
+                  "titulo": "Jesús aparece a los discípulos",
+                  "ref": "20:19-31"
+                },
+                {
+                  "titulo": "La confrontación de Pedro",
+                  "ref": "21:1-25"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
-        }
+                }
