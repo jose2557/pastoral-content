@@ -1,8 +1,8 @@
 {
   "version": 7,
   "nota": "Nuevo libro: Juan — El Hijo de Dios (semana del 26-7-26).",
-  "appVersion": 16,
-  "appNota": "Rediseño: la sección de Libros ahora se abre con un toque en un panel, en vez de deslizarse. Toca 'Libros' para verlos y acceder.",
+  "appVersion": 17,
+  "appNota": "Nuevo: filtro de estudio en Aprender, Audible, Evaluación, Pareos y Cuadro. Ahora puedes elegir Todo, por División, por Tema, o Elegir varios temas a la vez. Y en Cuadro hay una nueva opción 'Solo Tema' para escribir solo los temas en orden.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
