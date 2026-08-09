@@ -1,8 +1,8 @@
 {
   "version": 7,
   "nota": "Nuevo libro: Juan — El Hijo de Dios (semana del 26-7-26).",
-  "appVersion": 18,
-  "appNota": "Arreglo: en Repaso General, cuando un mismo sujeto o tema se repite en varios libros (ej. 'El juicio del pueblo'), las preguntas de división ahora indican el libro entre paréntesis y las opciones nunca pasan de 4.",
+  "appVersion": 19,
+  "appNota": "Nuevo: 🔗 Conexiones entre los libros, dentro de Repaso General. Una Guía con tablas para ver qué sujetos y temas comparten los 4 libros (con la referencia de cada uno) y qué es exclusivo de cada uno; y un modo de estudio con preguntas que cruzan los libros: escribir las referencias paralelas de un mismo sujeto, decir en qué libros aparece, y más.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
