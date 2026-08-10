@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "nota": "Nuevo libro: Juan — El Hijo de Dios (semana del 26-7-26).",
+  "version": 8,
+  "nota": "Nuevo libro: Hechos – Judíos y Gentiles (semana del 16-8-26).",
   "appVersion": 19,
   "appNota": "Nuevo: 🔗 Conexiones entre los libros, dentro de Repaso General. Una Guía con tablas para ver qué sujetos y temas comparten los 4 libros (con la referencia de cada uno) y qué es exclusivo de cada uno; y un modo de estudio con preguntas que cruzan los libros: escribir las referencias paralelas de un mismo sujeto, decir en qué libros aparece, y más.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
@@ -1310,6 +1310,334 @@
           ]
         }
       ]
+    },
+    {
+      "numero": 5,
+      "fecha": "16-8-26",
+      "titulo": "Hechos: Judíos y Gentiles",
+      "chunkSizes": [
+        11,
+        7,
+        9,
+        7,
+        8,
+        5,
+        11
+      ],
+      "dayLabels": [
+        "La Iglesia Judaica — Comienzo y Ministerio de Pedro",
+        "La Iglesia Judaica — Su Persecución",
+        "La Iglesia Gentil — Su Comienzo",
+        "El Primer Viaje Misionero de Pablo",
+        "El Segundo Viaje Misionero de Pablo",
+        "El Tercer Viaje Misionero de Pablo",
+        "La Iglesia Gentil — Su Persecución"
+      ],
+      "dayRanges": [
+        "Hechos 1-5",
+        "Hechos 5-8",
+        "Hechos 9-12",
+        "Hechos 13-15",
+        "Hechos 15-18",
+        "Hechos 19-21",
+        "Hechos 21-28"
+      ],
+      "divisiones": [
+        {
+          "id": "D1",
+          "titulo": "La Iglesia Judaica",
+          "rango": "Hechos 1-8",
+          "temas": [
+            {
+              "id": "T1",
+              "titulo": "Su Comienzo",
+              "sujetos": [
+                {
+                  "titulo": "La comisión a los doce",
+                  "ref": "1:1-11"
+                },
+                {
+                  "titulo": "Reemplazando a Judas",
+                  "ref": "1:12-26"
+                },
+                {
+                  "titulo": "El poder del Espíritu",
+                  "ref": "2:1-13"
+                },
+                {
+                  "titulo": "El mensaje de Pedro a los judíos",
+                  "ref": "2:14-40"
+                },
+                {
+                  "titulo": "La iglesia de Jerusalén",
+                  "ref": "2:41-47"
+                }
+              ]
+            },
+            {
+              "id": "T2",
+              "titulo": "El Ministerio de Pedro",
+              "sujetos": [
+                {
+                  "titulo": "Pedro y Juan curan al cojo",
+                  "ref": "3:1-10"
+                },
+                {
+                  "titulo": "El segundo mensaje de Pedro",
+                  "ref": "3:11-26"
+                },
+                {
+                  "titulo": "Pedro y Juan ante el concilio",
+                  "ref": "4:1-31"
+                },
+                {
+                  "titulo": "La unidad física de la iglesia",
+                  "ref": "4:32-37"
+                },
+                {
+                  "titulo": "Ananías y Safira",
+                  "ref": "5:1-11"
+                },
+                {
+                  "titulo": "Señales y prodigios",
+                  "ref": "5:12-16"
+                }
+              ]
+            },
+            {
+              "id": "T3",
+              "titulo": "Su Persecución",
+              "sujetos": [
+                {
+                  "titulo": "Pedro y Juan son perseguidos",
+                  "ref": "5:17-42"
+                },
+                {
+                  "titulo": "Los siete siervos",
+                  "ref": "6:1-15"
+                },
+                {
+                  "titulo": "El mensaje de Esteban",
+                  "ref": "7:1-53"
+                },
+                {
+                  "titulo": "La muerte de Esteban",
+                  "ref": "7:54-60"
+                },
+                {
+                  "titulo": "Saulo persigue a la iglesia",
+                  "ref": "8:1-3"
+                },
+                {
+                  "titulo": "Felipe en Samaria",
+                  "ref": "8:4-25"
+                },
+                {
+                  "titulo": "Felipe y el etíope",
+                  "ref": "8:26-40"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "titulo": "La Iglesia Gentil",
+          "rango": "Hechos 9-28",
+          "temas": [
+            {
+              "id": "T4",
+              "titulo": "Su Comienzo",
+              "sujetos": [
+                {
+                  "titulo": "La conversión de Saulo",
+                  "ref": "9:1-19"
+                },
+                {
+                  "titulo": "La persecución de Saulo",
+                  "ref": "9:20-31"
+                },
+                {
+                  "titulo": "Los milagros de Pedro",
+                  "ref": "9:32-43"
+                },
+                {
+                  "titulo": "Pedro y la conversión de Cornelio",
+                  "ref": "10:1-48"
+                },
+                {
+                  "titulo": "Pedro relata la conversión",
+                  "ref": "11:1-18"
+                },
+                {
+                  "titulo": "La iglesia de Antioquía",
+                  "ref": "11:19-30"
+                },
+                {
+                  "titulo": "La muerte de Jacobo",
+                  "ref": "12:1-5"
+                },
+                {
+                  "titulo": "Pedro es librado de la cárcel",
+                  "ref": "12:6-19"
+                },
+                {
+                  "titulo": "La muerte de Herodes",
+                  "ref": "12:20-25"
+                }
+              ]
+            },
+            {
+              "id": "T5",
+              "titulo": "El Primer Viaje Misionero de Pablo",
+              "sujetos": [
+                {
+                  "titulo": "Bernabé y Saulo son llamados",
+                  "ref": "13:1-3"
+                },
+                {
+                  "titulo": "Predica en Chipre",
+                  "ref": "13:4-12"
+                },
+                {
+                  "titulo": "Predica en Antioquía de Pisidia",
+                  "ref": "13:13-52"
+                },
+                {
+                  "titulo": "Predica en Iconio",
+                  "ref": "14:1-7"
+                },
+                {
+                  "titulo": "Predica en Listra",
+                  "ref": "14:8-23"
+                },
+                {
+                  "titulo": "Regresan a Antioquía de Siria",
+                  "ref": "14:24-28"
+                },
+                {
+                  "titulo": "El concilio de Jerusalén",
+                  "ref": "15:1-35"
+                }
+              ]
+            },
+            {
+              "id": "T6",
+              "titulo": "El Segundo Viaje Misionero de Pablo",
+              "sujetos": [
+                {
+                  "titulo": "El desacuerdo de Pablo y Bernabé",
+                  "ref": "15:36-41"
+                },
+                {
+                  "titulo": "Pablo llama a Timoteo",
+                  "ref": "16:1-10"
+                },
+                {
+                  "titulo": "Predica en Filipos",
+                  "ref": "16:11-40"
+                },
+                {
+                  "titulo": "Predica en Tesalónica",
+                  "ref": "17:1-9"
+                },
+                {
+                  "titulo": "Predica en Berea",
+                  "ref": "17:10-15"
+                },
+                {
+                  "titulo": "Predica en Atenas",
+                  "ref": "17:16-34"
+                },
+                {
+                  "titulo": "Predica en Corinto",
+                  "ref": "18:1-23"
+                },
+                {
+                  "titulo": "La conversión de Apolos",
+                  "ref": "18:24-28"
+                }
+              ]
+            },
+            {
+              "id": "T7",
+              "titulo": "El Tercer Viaje Misionero de Pablo",
+              "sujetos": [
+                {
+                  "titulo": "Predica en Efeso",
+                  "ref": "19:1-41"
+                },
+                {
+                  "titulo": "Predica en Troas",
+                  "ref": "20:1-16"
+                },
+                {
+                  "titulo": "Predica en Mileto",
+                  "ref": "20:17-38"
+                },
+                {
+                  "titulo": "El viaje a Jerusalén",
+                  "ref": "21:1-16"
+                },
+                {
+                  "titulo": "Pablo y Jacobo",
+                  "ref": "21:17-25"
+                }
+              ]
+            },
+            {
+              "id": "T8",
+              "titulo": "Su Persecución",
+              "sujetos": [
+                {
+                  "titulo": "Pablo en el templo",
+                  "ref": "21:26-40"
+                },
+                {
+                  "titulo": "Predica a los judíos",
+                  "ref": "22:1-30"
+                },
+                {
+                  "titulo": "Predica al concilio",
+                  "ref": "23:1-11"
+                },
+                {
+                  "titulo": "El complot contra Pablo",
+                  "ref": "23:12-35"
+                },
+                {
+                  "titulo": "Predica a Félix",
+                  "ref": "24:1-27"
+                },
+                {
+                  "titulo": "Predica a Festo",
+                  "ref": "25:1-27"
+                },
+                {
+                  "titulo": "Predica a Agripa",
+                  "ref": "26:1-32"
+                },
+                {
+                  "titulo": "Pablo enviado a Roma",
+                  "ref": "27:1-12"
+                },
+                {
+                  "titulo": "La tempestad en el mar",
+                  "ref": "27:13-44"
+                },
+                {
+                  "titulo": "La isla de Malta",
+                  "ref": "28:1-10"
+                },
+                {
+                  "titulo": "Pablo predica en Roma",
+                  "ref": "28:11-31"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
-                }
+}
