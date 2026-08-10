@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "nota": "Nuevo libro: Hechos – Judíos y Gentiles (semana del 16-8-26).",
+  "version": 9,
+  "nota": "Ajuste: repartición más equitativa de los 7 días de estudio de Hechos.",
   "appVersion": 19,
   "appNota": "Nuevo: 🔗 Conexiones entre los libros, dentro de Repaso General. Una Guía con tablas para ver qué sujetos y temas comparten los 4 libros (con la referencia de cada uno) y qué es exclusivo de cada uno; y un modo de estudio con preguntas que cruzan los libros: escribir las referencias paralelas de un mismo sujeto, decir en qué libros aparece, y más.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
@@ -1316,31 +1316,31 @@
       "fecha": "16-8-26",
       "titulo": "Hechos: Judíos y Gentiles",
       "chunkSizes": [
-        11,
-        7,
-        9,
-        7,
         8,
-        5,
-        11
+        8,
+        9,
+        8,
+        8,
+        8,
+        9
       ],
       "dayLabels": [
-        "La Iglesia Judaica — Comienzo y Ministerio de Pedro",
-        "La Iglesia Judaica — Su Persecución",
-        "La Iglesia Gentil — Su Comienzo",
-        "El Primer Viaje Misionero de Pablo",
-        "El Segundo Viaje Misionero de Pablo",
-        "El Tercer Viaje Misionero de Pablo",
-        "La Iglesia Gentil — Su Persecución"
+        "La Iglesia Judaica — Comienzo y Primeros Milagros de Pedro",
+        "La Iglesia Judaica — Vida Interna y Primera Persecución",
+        "Felipe, la Conversión de Saulo y el Ministerio de Pedro",
+        "La Iglesia Gentil — Pedro es Librado y Comienza el Primer Viaje",
+        "El Concilio de Jerusalén y el Segundo Viaje Misionero",
+        "El Segundo y Tercer Viaje Misionero — Rumbo a Jerusalén",
+        "La Iglesia Gentil — Persecución de Pablo y su Viaje a Roma"
       ],
       "dayRanges": [
-        "Hechos 1-5",
-        "Hechos 5-8",
-        "Hechos 9-12",
-        "Hechos 13-15",
+        "Hechos 1-4",
+        "Hechos 4-8",
+        "Hechos 8-12",
+        "Hechos 12-14",
         "Hechos 15-18",
-        "Hechos 19-21",
-        "Hechos 21-28"
+        "Hechos 18-22",
+        "Hechos 23-28"
       ],
       "divisiones": [
         {
