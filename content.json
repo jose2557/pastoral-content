@@ -1,8 +1,8 @@
 {
   "version": 9,
   "nota": "Ajuste: repartición más equitativa de los 7 días de estudio de Hechos.",
-  "appVersion": 19,
-  "appNota": "Nuevo: 🔗 Conexiones entre los libros, dentro de Repaso General. Una Guía con tablas para ver qué sujetos y temas comparten los 4 libros (con la referencia de cada uno) y qué es exclusivo de cada uno; y un modo de estudio con preguntas que cruzan los libros: escribir las referencias paralelas de un mismo sujeto, decir en qué libros aparece, y más.",
+  "appVersion": 20,
+  "appNota": "Nuevo: 🧺 Canasta de libros en Repaso General — elige cuáles libros quieres mezclar en la Evaluación, Pareos y Cuadro, sin tener que usarlos todos. Y 🏛️ Estructura: escribe de memoria las divisiones o los temas de esos libros en orden, con la opción de indicar también el rango de capítulos de cada uno. Además, en Conexiones ahora \"Jerusalem\" y \"Jerusalén\" se reconocen como el mismo sujeto.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
