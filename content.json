@@ -1,8 +1,8 @@
 {
   "version": 9,
   "nota": "Ajuste: repartición más equitativa de los 7 días de estudio de Hechos.",
-  "appVersion": 20,
-  "appNota": "Nuevo: 🧺 Canasta de libros en Repaso General — elige cuáles libros quieres mezclar en la Evaluación, Pareos y Cuadro, sin tener que usarlos todos. Y 🏛️ Estructura: escribe de memoria las divisiones o los temas de esos libros en orden, con la opción de indicar también el rango de capítulos de cada uno. Además, en Conexiones ahora \"Jerusalem\" y \"Jerusalén\" se reconocen como el mismo sujeto.",
+  "appVersion": 21,
+  "appNota": "Corregido: en Hechos, los temas que se repiten con el mismo nombre en dos divisiones (\"Su Comienzo\" y \"Su Persecución\") ya no se mezclan al estudiar por tema ni en el audio — ahora cada uno lleva solo los sujetos de su división y aparece etiquetado con ella.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
