@@ -1,8 +1,8 @@
 {
   "version": 9,
   "nota": "Ajuste: repartición más equitativa de los 7 días de estudio de Hechos.",
-  "appVersion": 21,
-  "appNota": "Corregido: en Hechos, los temas que se repiten con el mismo nombre en dos divisiones (\"Su Comienzo\" y \"Su Persecución\") ya no se mezclan al estudiar por tema ni en el audio — ahora cada uno lleva solo los sujetos de su división y aparece etiquetado con ella.",
+  "appVersion": 22,
+  "appNota": "Corregido: al escribir una referencia ya no se acepta solo el capítulo. Ahora debe ser exacta — capítulo y rango de versículos completos, ni de más ni de menos (sigue valiendo con o sin el nombre del libro). Aplica al Cuadro y a las preguntas de escribir la referencia.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
