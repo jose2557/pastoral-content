@@ -1,8 +1,8 @@
 {
-  "version": 9,
-  "nota": "Ajuste: repartición más equitativa de los 7 días de estudio de Hechos.",
-  "appVersion": 22,
-  "appNota": "Corregido: al escribir una referencia ya no se acepta solo el capítulo. Ahora debe ser exacta — capítulo y rango de versículos completos, ni de más ni de menos (sigue valiendo con o sin el nombre del libro). Aplica al Cuadro y a las preguntas de escribir la referencia.",
+  "version": 10,
+  "nota": "Nuevo libro: Romanos – Doctrinas Básicas (semana del 16-8-26). Hechos pasa a la semana del 9-8-26.",
+  "appVersion": 23,
+  "appNota": "Nuevo libro: Romanos. Las 🔗 Conexiones quedan fijas en los 4 evangelios (Mateo, Marcos, Lucas y Juan) — los libros que se añadan después ya no entran ahí. También: los rangos de capítulo de un tema ahora cuentan las referencias que cruzan capítulo (ej. 6:12-7:6), y las preguntas ya no salen ambiguas cuando un libro repite un sujeto o un tema.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
@@ -1313,7 +1313,7 @@
     },
     {
       "numero": 5,
-      "fecha": "16-8-26",
+      "fecha": "9-8-26",
       "titulo": "Hechos: Judíos y Gentiles",
       "chunkSizes": [
         8,
@@ -1632,6 +1632,263 @@
                 {
                   "titulo": "Pablo predica en Roma",
                   "ref": "28:11-31"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "fecha": "16-8-26",
+      "titulo": "Romanos: Doctrinas Básicas",
+      "chunkSizes": [
+        6,
+        4,
+        4,
+        5,
+        5,
+        4,
+        6
+      ],
+      "dayLabels": [
+        "Salvación — Introducción y La Condenación de los Hombres",
+        "Salvación — La Justificación de los Hombres",
+        "Salvación — La Santificación de los Creyentes",
+        "El Futuro de los Creyentes e Israel Pasado",
+        "Israel — Presente y Futuro",
+        "El Cuerpo — Los Miembros del Cuerpo",
+        "El Cuerpo — La Unidad y Conclusión"
+      ],
+      "dayRanges": [
+        "Romanos 1-3",
+        "Romanos 3-5",
+        "Romanos 6-8",
+        "Romanos 8-10",
+        "Romanos 10-11",
+        "Romanos 12-13",
+        "Romanos 14-16"
+      ],
+      "divisiones": [
+        {
+          "id": "D1",
+          "titulo": "La Doctrina de Salvación",
+          "rango": "Romanos 1-8",
+          "temas": [
+            {
+              "id": "T1",
+              "titulo": "Introducción",
+              "sujetos": [
+                {
+                  "titulo": "La salutación de Pablo",
+                  "ref": "1:1-7"
+                },
+                {
+                  "titulo": "El ministerio de Pablo",
+                  "ref": "1:8-17"
+                }
+              ]
+            },
+            {
+              "id": "T2",
+              "titulo": "La Condenación de los Hombres",
+              "sujetos": [
+                {
+                  "titulo": "La condenación de los ateos",
+                  "ref": "1:18-32"
+                },
+                {
+                  "titulo": "La condenación de los hipócritas",
+                  "ref": "2:1-16"
+                },
+                {
+                  "titulo": "La condenación de los hebreos",
+                  "ref": "2:17-29"
+                },
+                {
+                  "titulo": "La condenación de la humanidad",
+                  "ref": "3:1-20"
+                }
+              ]
+            },
+            {
+              "id": "T3",
+              "titulo": "La Justificación de los Hombres",
+              "sujetos": [
+                {
+                  "titulo": "El amor de Dios",
+                  "ref": "3:21-31"
+                },
+                {
+                  "titulo": "La fe de Abraham",
+                  "ref": "4:1-25"
+                },
+                {
+                  "titulo": "La esperanza del creyente",
+                  "ref": "5:1-11"
+                },
+                {
+                  "titulo": "Adán y Cristo: pecado y perdón",
+                  "ref": "5:12-21"
+                }
+              ]
+            },
+            {
+              "id": "T4",
+              "titulo": "La Santificación de los Creyentes",
+              "sujetos": [
+                {
+                  "titulo": "La muerte de la carne",
+                  "ref": "6:1-11"
+                },
+                {
+                  "titulo": "La libertad en Cristo",
+                  "ref": "6:12-7:6"
+                },
+                {
+                  "titulo": "La batalla espiritual",
+                  "ref": "7:7-25"
+                },
+                {
+                  "titulo": "La vida en el Espíritu",
+                  "ref": "8:1-11"
+                }
+              ]
+            },
+            {
+              "id": "T5",
+              "titulo": "El Futuro de los Creyentes",
+              "sujetos": [
+                {
+                  "titulo": "La gloria posible",
+                  "ref": "8:12-17"
+                },
+                {
+                  "titulo": "La esperanza presente",
+                  "ref": "8:18-27"
+                },
+                {
+                  "titulo": "La seguridad eterna",
+                  "ref": "8:28-39"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "titulo": "La Doctrina de Israel",
+          "rango": "Romanos 9-11",
+          "temas": [
+            {
+              "id": "T6",
+              "titulo": "Israel Pasado",
+              "sujetos": [
+                {
+                  "titulo": "La elección de Israel",
+                  "ref": "9:1-18"
+                },
+                {
+                  "titulo": "El error de Israel",
+                  "ref": "9:19-10:5"
+                }
+              ]
+            },
+            {
+              "id": "T7",
+              "titulo": "Israel Presente",
+              "sujetos": [
+                {
+                  "titulo": "La salvación presente",
+                  "ref": "10:6-17"
+                },
+                {
+                  "titulo": "La rebelión de Israel",
+                  "ref": "10:18-21"
+                }
+              ]
+            },
+            {
+              "id": "T8",
+              "titulo": "Israel Futuro",
+              "sujetos": [
+                {
+                  "titulo": "El remanente de Israel",
+                  "ref": "11:1-10"
+                },
+                {
+                  "titulo": "La restauración de Israel",
+                  "ref": "11:11-24"
+                },
+                {
+                  "titulo": "La seguridad de Israel",
+                  "ref": "11:25-36"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D3",
+          "titulo": "La Doctrina del Cuerpo",
+          "rango": "Romanos 12-16",
+          "temas": [
+            {
+              "id": "T9",
+              "titulo": "Los Miembros del Cuerpo",
+              "sujetos": [
+                {
+                  "titulo": "Deberes en el ministerio",
+                  "ref": "12:1-8"
+                },
+                {
+                  "titulo": "Deberes cristianos",
+                  "ref": "12:9-21"
+                },
+                {
+                  "titulo": "Deberes civiles",
+                  "ref": "13:1-7"
+                },
+                {
+                  "titulo": "Deberes sociales",
+                  "ref": "13:8-14"
+                }
+              ]
+            },
+            {
+              "id": "T10",
+              "titulo": "La Unidad del Cuerpo",
+              "sujetos": [
+                {
+                  "titulo": "El juicio de Dios",
+                  "ref": "14:1-12"
+                },
+                {
+                  "titulo": "El amor de Dios",
+                  "ref": "14:13-23"
+                },
+                {
+                  "titulo": "La gloria de Dios",
+                  "ref": "15:1-13"
+                }
+              ]
+            },
+            {
+              "id": "T11",
+              "titulo": "Conclusión",
+              "sujetos": [
+                {
+                  "titulo": "Los planes de Pablo",
+                  "ref": "15:14-33"
+                },
+                {
+                  "titulo": "Los saludos de Pablo",
+                  "ref": "16:1-24"
+                },
+                {
+                  "titulo": "El misterio del cuerpo",
+                  "ref": "16:25-27"
                 }
               ]
             }
