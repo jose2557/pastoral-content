@@ -1,8 +1,8 @@
 {
   "version": 10,
   "nota": "Nuevo libro: Romanos – Doctrinas Básicas (semana del 16-8-26). Hechos pasa a la semana del 9-8-26.",
-  "appVersion": 23,
-  "appNota": "Nuevo libro: Romanos. Las 🔗 Conexiones quedan fijas en los 4 evangelios (Mateo, Marcos, Lucas y Juan) — los libros que se añadan después ya no entran ahí. También: los rangos de capítulo de un tema ahora cuentan las referencias que cruzan capítulo (ej. 6:12-7:6), y las preguntas ya no salen ambiguas cuando un libro repite un sujeto o un tema.",
+  "appVersion": 24,
+  "appNota": "Corregido: en Audible, cuando un libro repite el nombre de un tema en dos divisiones (como \"Su Comienzo\" y \"Su Persecución\" en Hechos), ya no se mezclaban los sujetos de ambas al escuchar 'Por tema'. Ahora cada división suena por separado, y el mismo arreglo aplica a Repaso General cuando varios libros comparten el nombre de un tema.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
