@@ -1,8 +1,8 @@
 {
-  "version": 10,
-  "nota": "Nuevo libro: Romanos – Doctrinas Básicas (semana del 16-8-26). Hechos pasa a la semana del 9-8-26.",
-  "appVersion": 24,
-  "appNota": "Corregido: en Audible, cuando un libro repite el nombre de un tema en dos divisiones (como \"Su Comienzo\" y \"Su Persecución\" en Hechos), ya no se mezclaban los sujetos de ambas al escuchar 'Por tema'. Ahora cada división suena por separado, y el mismo arreglo aplica a Repaso General cuando varios libros comparten el nombre de un tema.",
+  "version": 11,
+  "nota": "Nuevo libro: I Corintios – Confrontando Carnalidad (semana del 23-8-26).",
+  "appVersion": 25,
+  "appNota": "Estructura: ahora puedes elegir un libro específico para escribir sus divisiones o temas en orden, y se muestra el rango de capítulos como pista para ubicarte. El botón Verificar quedó al final para no tener que subir. Las pestañas de estudio se reordenaron a: Aprender, Audible, Eval Hoy, Cuadro, Eval Semana, Pareos.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
@@ -1889,6 +1889,246 @@
                 {
                   "titulo": "El misterio del cuerpo",
                   "ref": "16:25-27"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "fecha": "23-8-26",
+      "titulo": "I Corintios: Confrontando Carnalidad",
+      "chunkSizes": [
+        5,
+        5,
+        5,
+        6,
+        5,
+        5,
+        5
+      ],
+      "dayLabels": [
+        "Introducción y la Prioridad de la Predicación",
+        "El Juicio Eterno y el Inicio del Juicio Espiritual",
+        "El Juicio Espiritual: la Fornicación y el Matrimonio",
+        "El Balance en el Matrimonio y la Libertad en Cristo",
+        "La Libertad en Cristo y los Dones Espirituales",
+        "Los Dones Espirituales y el Inicio de la Resurrección",
+        "La Resurrección y la Conclusión"
+      ],
+      "dayRanges": [
+        "I Corintios 1-2",
+        "I Corintios 2-4",
+        "I Corintios 5-7",
+        "I Corintios 7-10",
+        "I Corintios 11-13",
+        "I Corintios 13-15",
+        "I Corintios 15-16"
+      ],
+      "divisiones": [
+        {
+          "id": "D1",
+          "titulo": "Corrigiendo Divisiones",
+          "rango": "I Corintios 1-7",
+          "temas": [
+            {
+              "id": "T1",
+              "titulo": "Introducción",
+              "sujetos": [
+                {
+                  "titulo": "La salutación de Pablo",
+                  "ref": "1:1-3"
+                },
+                {
+                  "titulo": "La fidelidad de Dios",
+                  "ref": "1:4-9"
+                }
+              ]
+            },
+            {
+              "id": "T2",
+              "titulo": "La Prioridad de la Predicación",
+              "sujetos": [
+                {
+                  "titulo": "La división por los bautismos",
+                  "ref": "1:10-17"
+                },
+                {
+                  "titulo": "Predicando la verdad",
+                  "ref": "1:18-31"
+                },
+                {
+                  "titulo": "Predicando lo sencillo",
+                  "ref": "2:1-5"
+                },
+                {
+                  "titulo": "Predicando lo profundo",
+                  "ref": "2:6-16"
+                }
+              ]
+            },
+            {
+              "id": "T3",
+              "titulo": "El Juicio Eterno",
+              "sujetos": [
+                {
+                  "titulo": "La división por los líderes",
+                  "ref": "3:1-9"
+                },
+                {
+                  "titulo": "El tribunal de Cristo",
+                  "ref": "3:10-23"
+                },
+                {
+                  "titulo": "Dando cuenta a Dios",
+                  "ref": "4:1-13"
+                }
+              ]
+            },
+            {
+              "id": "T4",
+              "titulo": "El Juicio Espiritual",
+              "sujetos": [
+                {
+                  "titulo": "Dando cuenta al líder",
+                  "ref": "4:14-21"
+                },
+                {
+                  "titulo": "La fornicación juzgada",
+                  "ref": "5:1-13"
+                },
+                {
+                  "titulo": "El juicio de los incrédulos",
+                  "ref": "6:1-11"
+                },
+                {
+                  "titulo": "La destrucción de la fornicación",
+                  "ref": "6:12-20"
+                },
+                {
+                  "titulo": "El matrimonio",
+                  "ref": "7:1-9"
+                },
+                {
+                  "titulo": "El divorcio",
+                  "ref": "7:10-28"
+                },
+                {
+                  "titulo": "El balance en el matrimonio",
+                  "ref": "7:29-40"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "titulo": "Corrigiendo Doctrinas",
+          "rango": "I Corintios 8-16",
+          "temas": [
+            {
+              "id": "T5",
+              "titulo": "La Libertad en Cristo",
+              "sujetos": [
+                {
+                  "titulo": "Sacrificándonos por los débiles",
+                  "ref": "8:1-13"
+                },
+                {
+                  "titulo": "El ejemplo de sacrificio",
+                  "ref": "9:1-14"
+                },
+                {
+                  "titulo": "El galardón por predicar",
+                  "ref": "9:15-27"
+                },
+                {
+                  "titulo": "Evitando la idolatría",
+                  "ref": "10:1-22"
+                },
+                {
+                  "titulo": "Glorificando a Dios",
+                  "ref": "10:23-33"
+                },
+                {
+                  "titulo": "La sumisión de la mujer",
+                  "ref": "11:1-16"
+                },
+                {
+                  "titulo": "La cena del Señor",
+                  "ref": "11:17-34"
+                }
+              ]
+            },
+            {
+              "id": "T6",
+              "titulo": "Los Dones Espirituales",
+              "sujetos": [
+                {
+                  "titulo": "La unidad en el Espíritu Santo",
+                  "ref": "12:1-11"
+                },
+                {
+                  "titulo": "La unidad en el cuerpo de Cristo",
+                  "ref": "12:12-31"
+                },
+                {
+                  "titulo": "La prioridad del amor",
+                  "ref": "13:1-7"
+                },
+                {
+                  "titulo": "La permanencia del amor",
+                  "ref": "13:8-13"
+                },
+                {
+                  "titulo": "El enfoque de la edificación",
+                  "ref": "14:1-25"
+                },
+                {
+                  "titulo": "Las reglas de las lenguas",
+                  "ref": "14:26-40"
+                }
+              ]
+            },
+            {
+              "id": "T7",
+              "titulo": "La Resurrección",
+              "sujetos": [
+                {
+                  "titulo": "La resurrección de Cristo",
+                  "ref": "15:1-11"
+                },
+                {
+                  "titulo": "La resurrección negada",
+                  "ref": "15:12-19"
+                },
+                {
+                  "titulo": "La certeza de la resurrección",
+                  "ref": "15:20-34"
+                },
+                {
+                  "titulo": "La naturaleza de la resurrección",
+                  "ref": "15:35-49"
+                },
+                {
+                  "titulo": "Las resurrecciones de los creyentes",
+                  "ref": "15:50-58"
+                }
+              ]
+            },
+            {
+              "id": "T8",
+              "titulo": "Conclusión",
+              "sujetos": [
+                {
+                  "titulo": "Los planes de Pablo",
+                  "ref": "16:1-12"
+                },
+                {
+                  "titulo": "Los saludos de Pablo",
+                  "ref": "16:13-24"
                 }
               ]
             }
