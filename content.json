@@ -1,8 +1,8 @@
 {
   "version": 11,
   "nota": "Nuevo libro: I Corintios – Confrontando Carnalidad (semana del 23-8-26).",
-  "appVersion": 25,
-  "appNota": "Estructura: ahora puedes elegir un libro específico para escribir sus divisiones o temas en orden, y se muestra el rango de capítulos como pista para ubicarte. El botón Verificar quedó al final para no tener que subir. Las pestañas de estudio se reordenaron a: Aprender, Audible, Eval Hoy, Cuadro, Eval Semana, Pareos.",
+  "appVersion": 26,
+  "appNota": "Cuadro: el botón Verificar ahora aparece al final, después de completar todas las tarjetas, igual que en Estructura.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
