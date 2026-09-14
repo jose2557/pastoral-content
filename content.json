@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "nota": "Nuevo libro: I Corintios – Confrontando Carnalidad (semana del 23-8-26).",
+  "version": 12,
+  "nota": "Nuevo libro: II Corintios – El Llamado al Ministerio (semana del 30-8-26).",
   "appVersion": 26,
   "appNota": "Cuadro: el botón Verificar ahora aparece al final, después de completar todas las tarjetas, igual que en Estructura.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
@@ -2129,6 +2129,186 @@
                 {
                   "titulo": "Los saludos de Pablo",
                   "ref": "16:13-24"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "fecha": "30-8-26",
+      "titulo": "II Corintios: El Llamado al Ministerio",
+      "chunkSizes": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "dayLabels": [
+        "La Preparación para el Ministerio",
+        "La Preparación y el Inicio de la Participación en el Ministerio",
+        "La Participación en el Ministerio",
+        "La Participación y el Inicio de la Provisión del Ministerio",
+        "La Provisión y el Inicio de la Protección del Ministerio",
+        "La Protección del Ministerio",
+        "La Protección del Ministerio y la Conclusión"
+      ],
+      "dayRanges": [
+        "II Corintios 1-2",
+        "II Corintios 2-4",
+        "II Corintios 5-6",
+        "II Corintios 7-8",
+        "II Corintios 9-10",
+        "II Corintios 10-12",
+        "II Corintios 12-13"
+      ],
+      "divisiones": [
+        {
+          "id": "D1",
+          "titulo": "La Descripción del Ministerio",
+          "rango": "II Corintios 1-7",
+          "temas": [
+            {
+              "id": "T1",
+              "titulo": "La Preparación para el Ministerio",
+              "sujetos": [
+                {
+                  "titulo": "La salutación de Pablo",
+                  "ref": "1:1-2"
+                },
+                {
+                  "titulo": "Consolación y Tribulación",
+                  "ref": "1:3-11"
+                },
+                {
+                  "titulo": "La confianza en la fe",
+                  "ref": "1:12-24"
+                },
+                {
+                  "titulo": "El perdón Bíblico",
+                  "ref": "2:1-11"
+                },
+                {
+                  "titulo": "La certeza de la Palabra de Dios",
+                  "ref": "2:12-17"
+                }
+              ]
+            },
+            {
+              "id": "T2",
+              "titulo": "La Participación en el Ministerio",
+              "sujetos": [
+                {
+                  "titulo": "El ministerio espiritual",
+                  "ref": "3:1-18"
+                },
+                {
+                  "titulo": "El ministerio del evangelio",
+                  "ref": "4:1-6"
+                },
+                {
+                  "titulo": "El enfoque espiritual",
+                  "ref": "4:7-18"
+                },
+                {
+                  "titulo": "El enfoque eterno",
+                  "ref": "5:1-10"
+                },
+                {
+                  "titulo": "El ministerio de la reconciliación",
+                  "ref": "5:11-21"
+                },
+                {
+                  "titulo": "La gracia para el ministerio",
+                  "ref": "6:1-13"
+                },
+                {
+                  "titulo": "La separación del ministerio",
+                  "ref": "6:14-18"
+                },
+                {
+                  "titulo": "El arrepentimiento Bíblico",
+                  "ref": "7:1-16"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "titulo": "La Defensa del Ministerio",
+          "rango": "II Corintios 8-13",
+          "temas": [
+            {
+              "id": "T3",
+              "titulo": "La Provisión del Ministerio",
+              "sujetos": [
+                {
+                  "titulo": "El ejemplo de Macedonia",
+                  "ref": "8:1-5"
+                },
+                {
+                  "titulo": "El compromiso del creyente",
+                  "ref": "8:6-15"
+                },
+                {
+                  "titulo": "La responsabilidad del creyente",
+                  "ref": "8:16-24"
+                },
+                {
+                  "titulo": "La ofrenda Bíblica",
+                  "ref": "9:1-7"
+                },
+                {
+                  "titulo": "El ejemplo de Dios",
+                  "ref": "9:8-15"
+                }
+              ]
+            },
+            {
+              "id": "T4",
+              "titulo": "La Protección del Ministerio",
+              "sujetos": [
+                {
+                  "titulo": "La batalla espiritual",
+                  "ref": "10:1-6"
+                },
+                {
+                  "titulo": "Comparaciones carnales",
+                  "ref": "10:7-12"
+                },
+                {
+                  "titulo": "Comparaciones espirituales",
+                  "ref": "10:13-18"
+                },
+                {
+                  "titulo": "El ministerio del enemigo",
+                  "ref": "11:1-15"
+                },
+                {
+                  "titulo": "El sufrimiento del ministro",
+                  "ref": "11:16-33"
+                },
+                {
+                  "titulo": "El poder de la gracia",
+                  "ref": "12:1-10"
+                },
+                {
+                  "titulo": "El precio del ministerio",
+                  "ref": "12:11-21"
+                },
+                {
+                  "titulo": "La prueba del ministerio",
+                  "ref": "13:1-10"
+                },
+                {
+                  "titulo": "Los saludos de Pablo",
+                  "ref": "13:11-14"
                 }
               ]
             }
