@@ -1,8 +1,8 @@
 {
-  "version": 12,
+  "version": 13,
   "nota": "Nuevo libro: II Corintios – El Llamado al Ministerio (semana del 30-8-26).",
-  "appVersion": 26,
-  "appNota": "Cuadro: el botón Verificar ahora aparece al final, después de completar todas las tarjetas, igual que en Estructura.",
+  "appVersion": 27,
+  "appNota": "v27: tras el día 7 aparece el Libro Completo (todas las divisiones, temas y sujetos); la secuencia de estudio ahora sugiere el siguiente paso automáticamente: Hoy → Cuadro → Evaluación Semanal → Pareos.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
