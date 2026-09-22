@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "nota": "Nuevo libro: Gálatas – Confrontando Legalismo (semana del 6-9-26).",
+  "version": 15,
+  "nota": "Corrección: Gálatas — \"Pablo separó a Pedro\" (2:6-10).",
   "appVersion": 28,
   "appNota": "v28: en Aprender, al elegir un libro o varios, el contenido se muestra agrupado por división → tema → sujeto, igual que en Libro Completo.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
@@ -2388,7 +2388,7 @@
                   "ref": "2:1-5"
                 },
                 {
-                  "titulo": "Pablo separó de Pedro",
+                  "titulo": "Pablo separó a Pedro",
                   "ref": "2:6-10"
                 },
                 {
