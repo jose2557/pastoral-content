@@ -1,8 +1,8 @@
 {
   "version": 19,
   "nota": "Se agregó la semana 12: Colosenses — La Cabeza del Cuerpo (Valera Purificada 1602 rev. 2024).",
-  "appVersion": 55,
-  "appNota": "v55: el modo 📐 Rangos ahora es por tarjetas: una cita a la vez, lo que fallas vuelve unas tarjetas más adelante hasta acertarlo dos veces, y la barra de dominio de los rangos sube con cada acierto. Elige tema, división o libro; sujetos (por defecto), o también temas y divisiones.",
+  "appVersion": 56,
+  "appNota": "v56: en Aprender, la tabla completa y la tarjeta ahora van en el orden Sujeto, Referencia, Tema y División.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
