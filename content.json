@@ -1,8 +1,8 @@
 {
   "version": 19,
   "nota": "Se agregó la semana 12: Colosenses — La Cabeza del Cuerpo (Valera Purificada 1602 rev. 2024).",
-  "appVersion": 56,
-  "appNota": "v56: en Aprender, la tabla completa y la tarjeta ahora van en el orden Sujeto, Referencia, Tema y División.",
+  "appVersion": 57,
+  "appNota": "v57: las citas en las tablas y tarjetas de Aprender usan abreviatura del libro (Mt, Lc, 1 Co, Col…) para ocupar menos espacio.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
