@@ -1,8 +1,8 @@
 {
-  "version": 19,
-  "nota": "Se agregó la semana 12: Colosenses — La Cabeza del Cuerpo (Valera Purificada 1602 rev. 2024).",
-  "appVersion": 57,
-  "appNota": "v57: las citas en las tablas y tarjetas de Aprender usan abreviatura del libro (Mt, Lc, 1 Co, Col…) para ocupar menos espacio.",
+  "version": 20,
+  "nota": "Se agregó la semana 13: I Tesalonicenses — Confianza en las Tribulaciones (Valera Purificada 1602 rev. 2024).",
+  "appVersion": 58,
+  "appNota": "v58: nuevo libro I Tesalonicenses (semana 13: Confianza en las Tribulaciones) con 3 divisiones, 7 temas y 19 sujetos.",
   "apkUrl": "https://raw.githubusercontent.com/jose2557/pastoral-content/apk/pastoral.apk",
   "semanas": [
     {
@@ -3546,6 +3546,198 @@
                   "titulo": "Los saludos de Pablo",
                   "ref": "4:10-18",
                   "texto": "Aristarco, mi compañero en la prisión, os saluda, y Marcos, el sobrino de Bernabé, (acerca del cual habéis recibido mandamientos: si viniere a vosotros, le recibiréis;)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "fecha": "22-11-26",
+      "titulo": "I Tesalonicenses: Confianza en las Tribulaciones",
+      "chunkSizes": [
+        3,
+        5,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "dayLabels": [
+        "El Ejemplo del Amor",
+        "El Evangelio Entregado",
+        "Noticias de Fe",
+        "Necesidad de Dios",
+        "La Voluntad de Dios",
+        "La Venida del Señor",
+        "La Vida del Creyente"
+      ],
+      "dayRanges": [
+        "I Tesalonicenses 1:1-10",
+        "I Tesalonicenses 2:1-20",
+        "I Tesalonicenses 3:1-8",
+        "I Tesalonicenses 3:9-13",
+        "I Tesalonicenses 4:1-12",
+        "I Tesalonicenses 4:13-5:11",
+        "I Tesalonicenses 5:12-28"
+      ],
+      "divisiones": [
+        {
+          "id": "D1",
+          "titulo": "Amor en la Tribulación",
+          "rango": "I Tesalonicenses 1-2",
+          "temas": [
+            {
+              "id": "T1",
+              "titulo": "El Ejemplo del Amor",
+              "sujetos": [
+                {
+                  "titulo": "La salutación de Pablo",
+                  "ref": "1:1",
+                  "texto": "PABLO, y Silvano, y Timoteo, a la iglesia de los Tesalonicenses, que es en Dios Padre, y en el Señor Jesús Cristo. Gracia sea a vosotros, y paz de Dios nuestro Padre, y del Señor Jesús Cristo."
+                },
+                {
+                  "titulo": "El poder del evangelio",
+                  "ref": "1:2-5",
+                  "texto": "Damos siempre gracias a Dios por todos vosotros, haciendo mención de vosotros en nuestras oraciones;"
+                },
+                {
+                  "titulo": "El poder de los ejemplos",
+                  "ref": "1:6-10",
+                  "texto": "Y vosotros fuisteis hechos seguidores de nosotros, y del Señor, habiendo recibido la palabra en mucha tribulación, con gozo del Espíritu Santo:"
+                }
+              ]
+            },
+            {
+              "id": "T2",
+              "titulo": "El Evangelio Entregado",
+              "sujetos": [
+                {
+                  "titulo": "La Palabra anunciada",
+                  "ref": "2:1-6",
+                  "texto": "PORQUE, hermanos, vosotros mismos sabéis que nuestra entrada a vosotros no fue vana:"
+                },
+                {
+                  "titulo": "El amor expresado",
+                  "ref": "2:7-12",
+                  "texto": "Antes fuimos cariñosos entre vosotros como nodriza, que acaricia a sus propios hijos:"
+                },
+                {
+                  "titulo": "La Palabra recibida",
+                  "ref": "2:13-14",
+                  "texto": "Por lo cual también nosotros damos gracias a Dios sin cesar, de que cuando recibisteis la palabra de Dios, que oísteis de nosotros, la recibisteis no como palabra de hombres, sino como ella es en verdad, la palabra de Dios, la cual también obra eficazmente en vosotros que creéis."
+                },
+                {
+                  "titulo": "La Palabra rechazada",
+                  "ref": "2:15-16",
+                  "texto": "Los cuales así mataron al Señor Jesús, como a sus propios profetas, y a nosotros nos han perseguido; y no agradan a Dios, y a todos los hombres son contrarios:"
+                },
+                {
+                  "titulo": "El resultado del amor",
+                  "ref": "2:17-20",
+                  "texto": "Mas, hermanos, nosotros privados de vosotros por un poco de tiempo, de vista, no del corazón, tanto más procuramos, con mucho deseo ver vuestro rostro."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "titulo": "Fe en la Tribulación",
+          "rango": "I Tesalonicenses 3",
+          "temas": [
+            {
+              "id": "T3",
+              "titulo": "Noticias de Fe",
+              "sujetos": [
+                {
+                  "titulo": "Timoteo enviado",
+                  "ref": "3:1-5",
+                  "texto": "POR lo cual, no pudiéndolo sufrir más, nos pareció bien quedarnos en Atenas solos;"
+                },
+                {
+                  "titulo": "El reporte de Timoteo",
+                  "ref": "3:6-8",
+                  "texto": "Pero volviendo ahora de vosotros a nosotros Timoteo, y trayéndonos las buenas nuevas de vuestra fe y caridad; y que siempre tenéis buena memoria de nosotros, deseando ardientemente vernos, como también nosotros a vosotros:"
+                }
+              ]
+            },
+            {
+              "id": "T4",
+              "titulo": "Necesidad de Dios",
+              "sujetos": [
+                {
+                  "titulo": "El deseo de comunión",
+                  "ref": "3:9-11",
+                  "texto": "Por lo cual ¿Qué acción de gracias podremos dar a Dios por vosotros, por todo el gozo con que nos gozamos a causa de vosotros delante de nuestro Dios;"
+                },
+                {
+                  "titulo": "El deseo de crecimiento",
+                  "ref": "3:12-13",
+                  "texto": "Y el Señor os haga crecer y abundar en amor los unos para con los otros, y para con todos, así como también nosotros para con vosotros:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D3",
+          "titulo": "Esperanza en la Tribulación",
+          "rango": "I Tesalonicenses 4-5",
+          "temas": [
+            {
+              "id": "T5",
+              "titulo": "La Voluntad de Dios",
+              "sujetos": [
+                {
+                  "titulo": "La santificación",
+                  "ref": "4:1-8",
+                  "texto": "RESTA, pues, hermanos, que os roguemos y exhortemos en el Señor Jesús, que de la manera que habéis recibido de nosotros de cómo debéis andar, y agradar a Dios, así abundéis más y más."
+                },
+                {
+                  "titulo": "El amor fraternal",
+                  "ref": "4:9-12",
+                  "texto": "Pero acerca del amor hermanable no tenéis necesidad que os escriba; porque vosotros mismos sois enseñados por Dios a amaros los unos a los otros."
+                }
+              ]
+            },
+            {
+              "id": "T6",
+              "titulo": "La Venida del Señor",
+              "sujetos": [
+                {
+                  "titulo": "El rapto del cuerpo",
+                  "ref": "4:13-18",
+                  "texto": "Pero tampoco, hermanos, quiero que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza."
+                },
+                {
+                  "titulo": "La gran tribulación",
+                  "ref": "5:1-11",
+                  "texto": "PERO acerca de los tiempos y de las estaciones, hermanos, no tenéis necesidad de que yo os escriba:"
+                }
+              ]
+            },
+            {
+              "id": "T7",
+              "titulo": "La Vida del Creyente",
+              "sujetos": [
+                {
+                  "titulo": "Viviendo delante de los hermanos",
+                  "ref": "5:12-15",
+                  "texto": "Y os rogamos, hermanos, que reconozcáis a los que trabajan entre vosotros, y os presiden en el Señor, y os amonestan;"
+                },
+                {
+                  "titulo": "Viviendo delante del Señor",
+                  "ref": "5:16-24",
+                  "texto": "Estad siempre gozosos."
+                },
+                {
+                  "titulo": "Los saludos de Pablo",
+                  "ref": "5:25-28",
+                  "texto": "Hermanos, orad por nosotros."
                 }
               ]
             }
